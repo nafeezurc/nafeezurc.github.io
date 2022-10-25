@@ -1,9 +1,11 @@
 #body {
     background-color: #36393f;
+    text-align: center;
 }
 
 #text {
     color: aliceblue;
+    text-align: center;
 }
 
 .header {
