@@ -19,10 +19,11 @@
     width: 100%;
 }
 
-.edu {
+.entry {
     border: 2px outset aliceblue;
     text-align: left;
     display: inline-block;
     vertical-align: top;
     margin: 1% 1%;
+    width: 100%;
 }
