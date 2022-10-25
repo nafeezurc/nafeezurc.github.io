@@ -16,9 +16,11 @@
 .header {
     border: 2px outset aliceblue;
     text-align: center;
+    width: 100%;
 }
 
 .edu {
     border: 2px outset aliceblue;
     text-align: left;
+    width: 100%;
 }
