@@ -22,5 +22,7 @@
 .edu {
     border: 2px outset aliceblue;
     text-align: left;
+    display: inline-block;
+    vertical-align: top;
     width: 100%;
 }
