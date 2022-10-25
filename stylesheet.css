@@ -1,15 +1,17 @@
-body {
-    background-color: #36393f
+#body {
+    background-color: #36393f;
 }
 
-#body2 {
-    background-color: orange
+#text {
+    color: aliceblue;
 }
 
-#h1 {
-    color: aliceblue
+.header {
+    border: 5px outset aliceblue;
+    text-align: center;
 }
 
-#h2 {
-    color: green
+.hobby {
+    border: 5px outset aliceblue;
+    text-align: center;
 }
