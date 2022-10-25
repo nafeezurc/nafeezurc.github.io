@@ -3,9 +3,15 @@
     text-align: center;
 }
 
-#text {
+#text1 {
     color: aliceblue;
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#text2 {
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .header {
@@ -15,4 +21,5 @@
 
 .edu {
     border: 2px outset aliceblue;
+    text-align: left;
 }
