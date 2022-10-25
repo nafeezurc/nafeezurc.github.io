@@ -9,12 +9,10 @@
 }
 
 .header {
-    border: 5px outset aliceblue;
-    background-color: #36393f;
+    border: 2px outset aliceblue;
     text-align: center;
 }
 
-.hobby {
-    border: 5px outset aliceblue;
-    text-align: center;
+.edu {
+    border: 2px outset aliceblue;
 }
