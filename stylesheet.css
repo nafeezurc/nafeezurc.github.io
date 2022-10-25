@@ -14,13 +14,15 @@
 }
 
 .header {
-    border: 2px outset aliceblue;
+    border: 1px outset aliceblue;
+    border-style: outset;
     text-align: center;
     width: 100%;
 }
 
 .entry {
-    border: 2px outset aliceblue;
+    border: 1px outset aliceblue;
+    border-style: outset;
     text-align: left;
     display: inline-block;
     vertical-align: top;
